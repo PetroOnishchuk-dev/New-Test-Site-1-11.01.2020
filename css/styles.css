@@ -1,0 +1,244 @@
+body {
+    background-color: black;
+    display: block;
+}
+
+.blok-section {
+    max-width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+header {
+   
+    color: rgb(167, 0, 0);
+   
+    margin: 1px;
+    font-size: 32px;
+    text-align: center;
+   
+
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#ownDescription {
+  color: rgb(210, 208, 208);
+    text-align: center;
+    font-size: 22px;
+    
+    
+}
+#firstBlock {
+
+}
+
+#secondBlock {
+ 
+}
+#thirdBlock {
+
+    
+   
+    
+}
+#forthBlock {
+  
+  color: white;
+  padding-top: 50px;
+  padding-left: 10%;
+  padding-right: 10%;
+  
+  
+  
+}
+
+#fifthBlock {
+  
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 0%;
+}
+
+#sixthBlock {
+  
+}
+
+#mainNavBar {
+  overflow: hidden;
+  
+  font-size: 35px;
+  transition: 0.4s;
+ 
+  width: 100%;
+}
+
+#mainNavBar a:hover {
+  background-color:black;
+  
+}
+#mainNavBar a:active  {
+  background-color: yellow;
+   color: black;
+ }
+
+ #mainNavBar-right {
+  float: right;
+}
+
+#logoMainNavBar {
+  float: left;
+  font-size: 30px;
+  
+  transition: 0.4s;
+  padding: 12px;
+  line-height: 25px;
+  border-radius: 18px;
+  background-color:black;
+  margin: 5px;
+  border: 2px solid red;
+  color: red;
+}
+
+#linkSocialMainNavBar {
+  float: left;
+    text-align: center;
+    
+    width: 100px;
+    color: black;
+    font-size: 19px;
+    padding: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    border: 2px solid red;
+    border-radius: 18px;
+    background-color: white ;
+    margin: 5px;
+}
+
+
+
+#navbar {
+  overflow: hidden;
+  
+  font-size: 35px;
+  transition: 0.4s;
+ 
+  width: 100%;
+ 
+ 
+}
+#navbar a:hover {
+  background-color:greenyellow;
+  
+}
+#navbar a:active  {
+ background-color: yellow;
+  color: black;
+}
+
+
+
+#navbar-right {
+  float: right;
+}
+
+#social-image {
+ 
+  
+  padding: 0px;
+ 
+  height: 25px;
+  width: 25px;
+  vertical-align: bottom;
+  
+}
+
+#social-imageGitHub {
+ 
+  
+  
+  padding: 0px;
+  
+  height: 25px;
+  width: 25px;
+  vertical-align: bottom;
+  
+}
+
+
+#linkGitHubNavBar {
+  float: left;
+  text-align: center;
+ 
+  width: 185px;
+  color: black;
+  font-size: 19px;
+  padding: 12px;
+  text-decoration: none;
+  font-weight: 700;
+  border: 2px solid red;
+  border-radius: 18px;
+  background-color: white ;
+  margin: 5px;
+   
+  
+  
+}
+
+#linkYouTubeNavBar {
+  float: left;
+    text-align: center;
+    
+    width: 185px;
+    color: black;
+    font-size: 19px;
+    padding: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    border: 2px solid red;
+    border-radius: 18px;
+    background-color: white ;
+    margin: 5px;
+}
+#logoNavBar {
+  float: left;
+  font-size: 30px;
+  
+  transition: 0.4s;
+  padding: 12px;
+  line-height: 25px;
+  border-radius: 18px;
+  background-color:rgb(141, 216, 36);
+  margin: 5px;
+  border: 2px solid red;
+  color: black;
+}
+
+
+
+
+
+
+  /* 
+
+#navbar2 a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 18px;
+  background-color: blanchedalmond;
+  margin: 5px;
+  border-color: blueviolet;
+  border: 2px solid blueviolet;
+}
+*/
