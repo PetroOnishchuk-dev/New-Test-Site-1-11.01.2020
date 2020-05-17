@@ -206,7 +206,7 @@ h1 {
 #social-image {
  
   
-  padding: 0px;
+  margin-right: 5px;
  
   height: 25px;
   width: 25px;
@@ -217,8 +217,8 @@ h1 {
 #social-imageGitHub {
  
   
+ margin-right: 7px;
   
-  padding: 0px;
   
   height: 25px;
   width: 25px;
@@ -244,6 +244,7 @@ h1 {
   border-radius: 18px;
   background-color: white ;
   margin: 5px;
+  
    
   
   
@@ -251,10 +252,9 @@ h1 {
 
 @media only screen and (max-width: 837px) {
   #linkGitHubNavBar {
-    
     display: flex;
-    justify-content: center;
-    align-items: center;
+   justify-content: center;
+   align-items: center;
     width: 100%;
    
   }
@@ -282,18 +282,22 @@ h1 {
 }
 @media only screen and (max-width: 837px) {
   #linkYouTubeNavBar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
     
-   
-    
-   
-   
   }
  }
-
+ @media only screen and (max-width: 837px) {
+  #beforeLinkGitHubNavBar {
+    padding-right: 20px;
+   
+    
+    
+  }
+ }
+ 
 
 #logoNavBar {
  
@@ -320,6 +324,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 100%;
+   
    
    
   }
