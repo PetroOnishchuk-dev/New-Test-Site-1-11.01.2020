@@ -115,6 +115,7 @@ h1 {
   margin: 5px;
   border: 2px solid red;
   color: red;
+  text-align: center;
 }
 @media only screen and (max-width: 837px) {
   #beforelogoMainNavBar  {
@@ -311,6 +312,7 @@ h1 {
   margin: 5px;
   border: 2px solid red;
   color: black;
+  text-align: center;
 }
 @media only screen and (max-width: 837px) {
   #logoNavBar {
