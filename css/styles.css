@@ -62,7 +62,7 @@ h1 {
   
   
   
-  background-color: blueviolet;
+  
 }
 
 #sixthBlock {
@@ -98,7 +98,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-color: yellow;
+   
 
   }
  }
@@ -123,7 +123,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 100%;
-     background-color: yellow;
+     
  
  }
 }
@@ -311,7 +311,7 @@ h1 {
 @media only screen and (max-width: 837px) {
   #logoNavBar {
     float: bottom;
-    background-color: red;
+  
   }
  }
  @media only screen and (max-width: 837px) {
@@ -320,7 +320,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-color: aqua;
+   
    
   }
  }
