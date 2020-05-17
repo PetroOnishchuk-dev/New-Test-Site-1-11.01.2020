@@ -60,9 +60,9 @@ h1 {
 
 #fifthBlock {
   
-  padding-left: 10%;
-  padding-right: 10%;
-  padding-bottom: 0%;
+  
+  
+  background-color: blueviolet;
 }
 
 #sixthBlock {
@@ -74,8 +74,9 @@ h1 {
   
   font-size: 35px;
   transition: 0.4s;
- 
+  
   width: 100%;
+  
 }
 
 #mainNavBar a:hover {
@@ -89,12 +90,23 @@ h1 {
 
  #mainNavBar-right {
   float: right;
+ 
 }
+@media only screen and (max-width: 837px) {
+  #mainNavBar-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: yellow;
+
+  }
+ }
 
 #logoMainNavBar {
   float: left;
   font-size: 30px;
-  
+  width: 220px;
   transition: 0.4s;
   padding: 12px;
   line-height: 25px;
@@ -104,12 +116,23 @@ h1 {
   border: 2px solid red;
   color: red;
 }
+@media only screen and (max-width: 837px) {
+  #beforelogoMainNavBar  {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+     background-color: yellow;
+ 
+ }
+}
 
 #linkSocialMainNavBar {
   float: left;
     text-align: center;
     
-    width: 40px;
+    width: 35px;
     color: black;
     font-size: 19px;
     padding: 12px;
@@ -119,8 +142,18 @@ h1 {
     border-radius: 18px;
     background-color: white ;
     margin: 5px;
+  
 }
 
+
+
+@media only screen and (max-width: 837px) {
+  #linkSocialMainNavBar {
+    
+    
+    
+  }
+ }
 
 
 #navbar {
@@ -146,7 +179,29 @@ h1 {
 
 #navbar-right {
   float: right;
+
+
+
 }
+
+
+
+@media only screen and (max-width: 837px) {
+  #navbar-right  {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+     
+ 
+ 
+ 
+ 
+ 
+ }
+}
+
 
 #social-image {
  
@@ -179,10 +234,10 @@ h1 {
   width: 175px;
   color: black;
   font-size: 19px;
-  padding-left:1px ;
-    padding-right: 2px ;
-    padding-top: 12px;
-    padding-bottom: 12px ;
+  padding-left:2px ;
+  padding-right: 1px ;
+  padding-top: 12px;
+  padding-bottom: 12px ;
   text-decoration: none;
   font-weight: 700;
   border: 2px solid red;
@@ -194,6 +249,17 @@ h1 {
   
 }
 
+@media only screen and (max-width: 837px) {
+  #linkGitHubNavBar {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   
+  }
+ }
+
 #linkYouTubeNavBar {
   float: left;
     text-align: center;
@@ -201,8 +267,9 @@ h1 {
     width: 175px;
     color: black;
     font-size: 19px;
-   padding-left:1px ;
-    padding-right: 2px ;
+   
+    padding-left:1px ;
+    padding-right: 1px ;
     padding-top: 12px;
     padding-bottom: 12px ;
     text-decoration: none;
@@ -211,11 +278,27 @@ h1 {
     border-radius: 18px;
     background-color: white ;
     margin: 5px;
+    
 }
+@media only screen and (max-width: 837px) {
+  #linkYouTubeNavBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+   
+    
+   
+   
+  }
+ }
+
+
 #logoNavBar {
-  float: left;
+ 
   font-size: 30px;
-  
+  width: 235px;
   transition: 0.4s;
   padding: 12px;
   line-height: 25px;
@@ -225,26 +308,32 @@ h1 {
   border: 2px solid red;
   color: black;
 }
+@media only screen and (max-width: 837px) {
+  #logoNavBar {
+    float: bottom;
+    background-color: red;
+  }
+ }
+ @media only screen and (max-width: 837px) {
+  #beforeLogoNavBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: aqua;
+   
+  }
+ }
+
+
+
+ @media only screen and (min-width: 838px) {
+  #logoNavBar {
+    float: left;
+    
+  }
+ }
 
 
 
 
-
-
-  /* 
-
-#navbar2 a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px; 
-  line-height: 25px;
-  border-radius: 18px;
-  background-color: blanchedalmond;
-  margin: 5px;
-  border-color: blueviolet;
-  border: 2px solid blueviolet;
-}
-*/
