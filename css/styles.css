@@ -5,7 +5,7 @@ body {
 
 .blok-section {
     max-width: 800px;
-    text-align: center;
+   
     margin-left: auto;
     margin-right: auto;
     
@@ -149,22 +149,18 @@ h1 {
 
 
 
-@media only screen and (max-width: 837px) {
-  #linkSocialMainNavBar {
-    
-    
-    
-  }
- }
+
 
 
 #navbar {
   overflow: hidden;
   
+ 
   font-size: 35px;
   transition: 0.4s;
  
   width: 100%;
+  margin-bottom: 50px;
  
  
 }
@@ -182,7 +178,7 @@ h1 {
 #navbar-right {
   float: right;
 
-
+  
 
 }
 
@@ -289,6 +285,10 @@ h1 {
     margin: 5px;
     
 }
+
+
+
+
 @media only screen and (max-width: 837px) {
   #linkYouTubeNavBar {
    width: 100%;
@@ -311,7 +311,7 @@ h1 {
 #logoNavBar {
  
   font-size: 30px;
-  width: 235px;
+  width: 335px;
   transition: 0.4s;
   padding: 12px;
   line-height: 25px;
@@ -349,6 +349,47 @@ h1 {
   }
  }
 
+#blogPostDiv{
+  
+  padding: 20px;
+  background-color: white;
+  border: 2px solid red;
+  border-radius:15px;
+}
 
+#linkYouTubeNavBar2 { 
+   font-size: 25px;
+  
+  
+}
+
+#linkYouTubeNavBar2:hover {
+  
+  
+}
+
+#pMainDescriptionTitle {
+  text-align: center;
+  color: blue;
+}
+#discriptionsDiv{
+  font-size: 22px;
+}
+
+#pDescriptionTitle {
+  text-align: center;
+}
+
+#pDescriptions {
+  
+}
+#dateAndUpdate {
+  font-size:15px;
+  text-align: center;
+  
+
+
+ 
+}
 
 
