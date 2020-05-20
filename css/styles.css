@@ -353,7 +353,7 @@ h1 {
 #blogPostDiv{
   
   padding: 20px;
-  background-color: white;
+  background-color: rgb(160, 155, 155);
   border: 2px solid red;
   border-radius:15px;
 }
@@ -379,6 +379,7 @@ h1 {
 
 #pDescriptionTitle {
   text-align: center;
+  color:white;
 }
 
 #pDescriptions {
