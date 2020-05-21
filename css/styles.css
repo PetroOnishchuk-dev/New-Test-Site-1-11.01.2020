@@ -351,18 +351,28 @@ h1 {
  }
 
 #blogPostDiv{
-  
-  padding: 20px;
-  background-color: rgb(160, 155, 155);
-  border: 2px solid red;
+ 
+  padding: 5px;
+  background-color: rgb(164, 154, 154);
+  border: 2px solid rgb(135, 9, 9);
   border-radius:15px;
 }
 
 #linkYouTubeNavBar2 { 
-   font-size: 25px;
+   font-size: 22px;
   
+ text-decoration: double;
   
 }
+
+#linkYouTubeNavBar2:hover {
+  color: blue;
+  
+}
+#linkYouTubeNavBar2:active  {
+  color: yellow;
+  
+ }
 
 #linkYouTubeNavBar2:hover {
   
@@ -372,23 +382,29 @@ h1 {
 #pMainDescriptionTitle {
   text-align: center;
   color: blue;
+  margin-top: 0px;
+  font-size: 25px;
+  margin-bottom: 10px;
 }
 #discriptionsDiv{
   font-size: 22px;
+  margin: 0px;
+  margin-top: 5px;
 }
 
 #pDescriptionTitle {
   text-align: center;
-  color:white;
+  color:black;
+  margin: 0px;
 }
 
 #pDescriptions {
-  
+  margin: 0px;
 }
 #dateAndUpdate {
   font-size:15px;
   text-align: center;
-  
+  margin: 0px;
 
 
  
