@@ -381,7 +381,7 @@ h1 {
 
 #pMainDescriptionTitle {
   text-align: center;
-  color: blue;
+  color:rgb(138, 12, 12);
   margin-top: 0px;
   font-size: 25px;
   margin-bottom: 10px;
@@ -394,8 +394,9 @@ h1 {
 
 #pDescriptionTitle {
   text-align: center;
-  color:black;
+  color:white;
   margin: 0px;
+  margin-bottom: 5px;
 }
 
 #pDescriptions {
