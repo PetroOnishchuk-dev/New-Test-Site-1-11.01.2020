@@ -29,7 +29,7 @@ h1 {
 }
 
 #ownDescription {
-  color: rgb(210, 208, 208);
+  color:white;
     text-align: center;
     font-size: 22px;
     
@@ -354,9 +354,30 @@ h1 {
 #blogPostDiv{
  
   padding: 5px;
+  background-color: rgb(147, 235, 250);
+  border: 2px solid rgb(135, 9, 9);
+
+  border-radius:15px;
+  margin-bottom: 5px;
+}
+
+#blogPostDiv100UI{
+ 
+  padding: 5px;
+  background-color: rgb(235, 238, 180);
+  border: 2px solid rgb(135, 9, 9);
+
+  border-radius:15px;
+  margin-bottom: 5px;
+}
+#blogPostDivOld{
+ 
+  padding: 5px;
   background-color: rgb(169, 165, 165);
   border: 2px solid rgb(135, 9, 9);
+
   border-radius:15px;
+  margin-bottom: 5px;
 }
 
 #linkYouTubeNavBar2 { 
@@ -381,12 +402,22 @@ h1 {
   
 }
 
-#pMainDescriptionTitle {
+#pMainDescriptionTitle100UI {
   text-align: center;
-  color:rgb(138, 12, 12);
+  color:red;
   margin-top: 0px;
   font-size: 25px;
   margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+#pMainDescriptionTitle {
+  text-align: center;
+  color: red;
+  margin-top: 0px;
+  font-size: 25px;
+  margin-bottom: 10px;
+  text-decoration: underline;
 }
 #discriptionsDiv{
   font-size: 22px;
@@ -396,7 +427,14 @@ h1 {
 
 #pDescriptionTitle {
   text-align: center;
-  color:white;
+  color:black;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+#pDescriptionTitle100UI {
+  text-align: center;
+  color:black;
   margin: 0px;
   margin-bottom: 5px;
 }
