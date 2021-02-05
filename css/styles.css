@@ -175,7 +175,8 @@ h1 {
     text-align: center;
     width: 35px;
     font-size: 19px;
-    padding: 12px;
+    padding: 15px;
+  
     font-weight: 700;
     border: 2px solid red;
     border-radius: 18px;
@@ -183,6 +184,28 @@ h1 {
     margin: 5px;
   
 }
+
+
+#linkSocialMainNavBarSport{
+  float: left;
+  vertical-align: top;
+    text-align: center;
+    width: 35px;
+    height: 30px;
+    font-size: 10px;
+    padding: 15px;
+    padding-left: 6px;
+
+  padding-right: 30px;
+    font-weight: 700;
+    border: 2px solid red;
+    border-radius: 18px;
+    background-color: white ;
+    margin: 5px;
+    
+}
+
+
 
 
 
@@ -370,6 +393,26 @@ padding-right: 25px;
   vertical-align: bottom;
   
 }
+#social-image-sport {
+ 
+ 
+ 
+  height: 30px;
+  width: 60px;
+  
+  vertical-align: bottom;
+  
+  
+}
+
+#main-logo-image{
+  height: 30%;
+  width: 30%;
+border: 2px solid green;
+border-radius: 50%;
+}
+
+ 
 
 #social-imageGitHub {
 
