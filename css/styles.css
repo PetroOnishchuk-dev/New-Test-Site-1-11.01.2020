@@ -241,7 +241,7 @@ h1 {
 #blogPostDiv{
  
   padding: 5px;
-  background-color: rgb(147, 235, 250);
+  background-color: rgb(131, 237, 147);
   border: 2px solid rgb(135, 9, 9);
 
   border-radius:15px;
@@ -251,7 +251,17 @@ h1 {
 #blogPostDivSwiftUI{
  
   padding: 5px;
-  background-color: rgb(245, 240, 88);
+  background-color: rgb(182, 219, 247);
+  border: 2px solid rgb(135, 9, 9);
+
+  border-radius:15px;
+  margin-bottom: 5px;
+}
+
+#blogPostDivUIKit{
+ 
+  padding: 5px;
+  background-color: rgb(237, 233, 115);
   border: 2px solid rgb(135, 9, 9);
 
   border-radius:15px;
@@ -261,7 +271,7 @@ h1 {
 #blogPostDiv100UI{
  
   padding: 5px;
-  background-color: rgb(235, 238, 180);
+  background-color: rgb(180, 207, 247);
   border: 2px solid rgb(135, 9, 9);
 
   border-radius:15px;
