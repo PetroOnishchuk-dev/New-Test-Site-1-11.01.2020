@@ -37,7 +37,7 @@ h1 {
 }
 
 #emailText{
-  color: red;
+  color: rgb(0, 115, 255);
 }
 #firstBlock {
 
@@ -251,7 +251,7 @@ h1 {
 #blogPostDivSwiftUI{
  
   padding: 5px;
-  background-color: rgb(182, 219, 247);
+  background-color: rgb(131, 237, 147);
   border: 2px solid rgb(135, 9, 9);
 
   border-radius:15px;
@@ -356,7 +356,7 @@ padding-right: 25px;
 
 #pMainDescriptionTitle {
   text-align: center;
-  color: red;
+  color: rgb(191, 20, 20);
   margin-top: 0px;
   font-size: 25px;
   margin-bottom: 10px;
