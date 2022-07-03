@@ -47,9 +47,7 @@ h1 {
  
 }
 #thirdBlock {
-
-    
-   
+ 
     
 }
 #fourthBlock {
@@ -85,15 +83,7 @@ h1 {
   color: red;
   
 }
-
-
-
-
-
-
-
-
-
+  
 
 
 #mainNavBar {
@@ -109,10 +99,7 @@ h1 {
 #homeLink {
   
   text-decoration: none;
-      color: red;
-      
-    
-    
+      color: red; 
   }
   #logoMainNavBar a:hover {
     
@@ -284,6 +271,8 @@ h1 {
   display: block;
   text-align: center;
   text-decoration: double;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 #linkAuthorNavBar2 {
