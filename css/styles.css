@@ -121,13 +121,13 @@ h1 {
   float: right;
  
 }
+
 #mainNavBar-right-coffee {
   float: right;
   padding-top: 6px;
  
 }
-
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1290px) {
   #mainNavBar-right {
     display: flex;
     justify-content: center;
@@ -137,7 +137,8 @@ h1 {
 
   }
  }
- @media only screen and (max-width: 1200px) {
+
+ @media only screen and (max-width: 1290px) {
   #mainNavBar-right-coffee {
     display: flex;
     justify-content: center;
@@ -165,7 +166,7 @@ h1 {
   color: red;
   text-align: center;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1290px) {
   #beforelogoMainNavBar  {
    
     display: flex;
